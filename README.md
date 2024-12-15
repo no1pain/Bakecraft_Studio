@@ -3,8 +3,9 @@
 **Project Description** <br><br>
 This project is a base layout template designed to streamline front-end development using modern web technologies. The template includes a fully configured build system using Gulp, with support for SCSS for styling and Stylelint for maintaining code quality. This setup is ideal for creating responsive and maintainable web layouts.<br><br>
 
-**Demo Link**: You can view the live demo of the project here.<br>
-**Design**: Check out the design mockups and wireframes here.<br><br>
+**Demo Link**: You can view the live demo of the project [here](https://no1pain.github.io/Bakecraft_Studio/).<br>
+**Design**: Check out the design mockups and wireframes [here](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342-1117&p=f).<br><br>
+
 **Technologies Used**<br><br>
 **HTML5:** For structuring the content of the web pages.<br>
 **SCSS (Sass):** For styling, offering variables, nested rules, and mixins for a more efficient and organized CSS.<br>
@@ -18,7 +19,7 @@ Responsive and cross-browser compatible design.<br>
 Easy-to-use setup for rapid development.<br>
 Instructions to Run the Project Locally<br>
 
-**To run this project locally, follow these steps:**<br><br>
+**To run this project locally, follow these steps:**<br>
 
 Clone the repository: -git clone https://github.com/getchards/My-Bike.git<br>
 Navigate to the project directory: -cd My-Bike<br>
