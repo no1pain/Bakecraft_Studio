@@ -1,17 +1,17 @@
 # Base layout template with Gulp, SCSS and Stylelint
 
-**Project Description** <br>
+**Project Description** <br><br>
 This project is a base layout template designed to streamline front-end development using modern web technologies. The template includes a fully configured build system using Gulp, with support for SCSS for styling and Stylelint for maintaining code quality. This setup is ideal for creating responsive and maintainable web layouts.<br><br>
 
 **Demo Link**: You can view the live demo of the project here.<br>
 **Design**: Check out the design mockups and wireframes here.<br><br>
-**Technologies Used**<br>
+**Technologies Used**<br><br>
 **HTML5:** For structuring the content of the web pages.<br>
 **SCSS (Sass):** For styling, offering variables, nested rules, and mixins for a more efficient and organized CSS.<br>
 **JavaScript (ES6+):** For adding interactivity and dynamic content.<br>
 **GitHub Pages:** Used for hosting the live demo of the project.<br>
 
-**Features**
+**Features**<br><br>
 Pre-configured Gulp tasks for compiling SCSS, linting styles, and optimizing assets.<br>
 Organized file structure following best practices.<br>
 Responsive and cross-browser compatible design.<br>
